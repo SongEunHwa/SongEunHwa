@@ -65,4 +65,4 @@ Adobe의 포토샵, 일러스트레이터, 프로미어프로, 이펙트 등을 
 
 
 ![SongEunHwa's github stats](https://github-readme-stats.vercel.app/api?username=SongEunHwa&show_icons=true)
-[![SongEunHwa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SongEunHwaID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SongEunHwa)
+[![SongEunHwa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SongEunHwa&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SongEunHwa)
