@@ -9,7 +9,7 @@
 
 🖥️ GitHub : [https://github.com/SongEunHwa](https://github.com/SongEunHwa)
 
-💻 Blog : [https://jasmin2588.tistory.com/](https://jasmin2588.tistory.com/)
+💻 Blog : [https://songeunhwa.github.io/](https://songeunhwa.github.io)
 
 ---
 
